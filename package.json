@@ -39,7 +39,7 @@
     "is-plain-object": "^2.0.4",
     "is-extendable": "^0.1.1",
     "isobject": "^3.0.1",
-    "lodash": "^1.0.2",
+    "lodash": "^4.17.19",
     "kind-of": "^6.0.3",
     "lodash._getnative": "^3.9.1",
     "lodash._basetostring": "^3.0.1",
